@@ -6,6 +6,6 @@ ul {
   list-style: none;
 }
 
-span{
-  font-family: Charcoal;
+ul#display{
+  padding: 0px ;
 }
