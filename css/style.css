@@ -1,6 +1,11 @@
 body{
-   font-family: Charcoal;
-
+  background: #efefef;
 }
 
+ul {
+  list-style: none;
+}
 
+ul#display{
+  padding: 0px ;
+}
